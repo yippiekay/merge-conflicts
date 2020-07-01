@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Servey Vialov resume"
-resume_title:                   "Sergey Vialov"
+resume_name:                    "Sergey Vialov"
+resume_title:                   "Contacts"
 resume_contact_email:           "bfmvsergey@gmail.com"
 resume_contact_telephone:       "+375298457090"
 resume_contact_address:         "Belarus, Minsk"
@@ -44,7 +44,7 @@ resume_social_links:
   # resume_dribbble_url:          ""
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/sergey-vialov/"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_instagram_url:         "https://www.instagram.com/yippiekay/"
   # resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 

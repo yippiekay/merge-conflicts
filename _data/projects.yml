@@ -6,11 +6,11 @@
   role: Developer
   duration: 2020 april
   url: "https://github.com/yippiekay/TelegramBot"
-  description: Simple console app for getting currency exchange course information and something else. Username in telegram - @yippiekay_bot.
+  description: Simple console app for getting currency exchange rates information and some other information. Username in telegram - @yippiekay_bot.
 
 # Product Tracking
 - project: Product Tracking
   role: Backend developer
   duration: 2020 may &mdash; Present
   url: "https://github.com/yippiekay/ProductTracking"
-  description: This app will help keep track of some missing products on a certain website and send a notification when the product has appeared
+  description: This app will help keep track of some absent products on a certain website and send a notification when the product has appeared
