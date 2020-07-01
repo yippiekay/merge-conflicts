@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# probot
-- project: probot
-  role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+# Telegram  Bot
+- project: Telegram Bot
+  role: Developer
+  duration: 2020 april
+  url: "https://github.com/yippiekay/TelegramBot"
+  description: Simple console app for getting currency exchange course information and something else. Username in telegram - @yippiekay_bot.
 
-# GitHub Classroom
-- project: GitHub Classroom
-  role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+# Product Tracking
+- project: Product Tracking
+  role: Backend developer
+  duration: 2020 may &mdash; Present
+  url: "https://github.com/yippiekay/ProductTracking"
+  description: This app will help keep track of some missing products on a certain website and send a notification when the product has appeared
