@@ -1,6 +1,6 @@
 # Site settings
 title: "YippieKay Resume"
-description: "A resume template for YippieKAy and GitHub Pages sites."
+description: "A resume template for YippieKay and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
